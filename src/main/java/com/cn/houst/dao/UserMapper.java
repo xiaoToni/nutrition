@@ -2,7 +2,7 @@ package com.cn.houst.dao;
 
 import com.cn.houst.pojo.User;
 
-public interface IUserDao {
+public interface UserMapper {
 
     /**
      * 根据主键删除
